@@ -131,7 +131,7 @@ Last Release - v1.3 (23-Sep-2024)\
 | AveYo aka BAU                               | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC)                                                                                                                                                                         |
 | [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
 | WindowsAddict                               | IAS Author                                                                                                                                                                                                                             |
-| [Shamim](https://github.com/sh-bd) | Release the latest v1.3
+| [Shamim](https://github.com/sh-bd) | Again IDM started to showing fake serial popups. However, the issue has been fixed and released the latest v1.3
 
 And thanks to the IAS users for their interest, feedback, and assistance.
 
