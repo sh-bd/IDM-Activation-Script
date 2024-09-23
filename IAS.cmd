@@ -376,7 +376,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://www.nsaneforums.com/topic/371047--/?do=findComment^&comment=1578647
+start https://github.com/sh-bd/IDM-Activation-Script/
 goto MainMenu
 
 ::========================================================================================================================================
@@ -868,10 +868,10 @@ _________________________________
 
    IDM Activation Script
    
-   Homepage: nsaneforums.com/topic/371047--/?do=findComment&comment=1578647
+   Homepage: https://github.com/sh-bd/IDM-Activation-Script/
              login required
    
-   Email:    windowsaddict@protonmail.com
+   Email:    shamimhaque@protonmail.com
 
 ____________________________________________________________________________________________________
 :txt:
