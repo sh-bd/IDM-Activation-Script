@@ -187,7 +187,7 @@ echo:
 echo:
 echo:       ___________________________________________________ 
 echo:                                                          
-echo:          [1] Activate IDM                                
+echo:          [1] Activate IDM by Shamim                                
 echo:          [2] Reset IDM Activation / Trial in Registry
 echo:          _____________________________________________   
 echo:                                                          
