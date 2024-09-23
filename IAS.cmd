@@ -863,6 +863,8 @@ ________________________________________________________________________________
 
    @dbenham            - Set buffer height independently of window height
                          stackoverflow.com/a/13351373
+   @sh-bd              - Again IDM started to showing fake serial popups.
+                         However, the issue has been fixed!
 
 _________________________________
 
