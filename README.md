@@ -4,7 +4,6 @@ An open-source tool to activate and reset the trial of [Internet Download Manage
 
 ## Features
 
--   IDM freeze trial and activation with registry key lock method
 -   Activation and trial persist even after installing IDM updates
 -   IDM trial reset
 -   Fully open source
@@ -43,12 +42,6 @@ Last Release - v1.3 (23-Sep-2024)\
 -   That's all.
 
 ## Info
-
-#### Freeze Trial
-
--   IDM provides a 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you won't have to reset the trial again and your trial won't expire.
--   This method requires the Internet at the time of applying this option.
--   IDM updates can be installed directly without having to freeze it again.
 
 #### Activation
 
