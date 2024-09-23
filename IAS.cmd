@@ -153,7 +153,7 @@ if defined activate goto _activate
 :MainMenu
 
 cls
-title  Shamim ^(Shamim^)
+title  IDM Activation Script 1.3 by Shamim
 mode 65, 25
 
 :: Check firewall status
