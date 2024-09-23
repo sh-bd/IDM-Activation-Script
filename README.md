@@ -1,11 +1,3 @@
-# Notice:
-
-## This project has been archived and is no longer being maintained.
-
-I've switched to FDM, don't want to keep up with IDM new nags anymore.
-
-------------------------------------------------------------------------
-
 ## IDM Activation Script
 
 An open-source tool to activate and reset the trial of [Internet Download Manager](https://www.internetdownloadmanager.com/)
@@ -20,8 +12,8 @@ An open-source tool to activate and reset the trial of [Internet Download Manage
 
 ## IAS Latest Release
 
-Last Release - v1.2 (12-Feb-2024)\
-[GitHub](https://github.com/WindowsAddict/IDM-Activation-Script) - [BitBucket](https://bitbucket.org/WindowsAddict/idm-activation-script/)
+Last Release - v1.3 (23-Sep-2024)\
+[GitHub](https://github.com/sh-bd/IDM-Activation-Script)
 
 ## Download / How to use it?
 
@@ -38,13 +30,13 @@ Last Release - v1.2 (12-Feb-2024)\
 
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
-    `irm https://massgrave.dev/ias | iex`
+    `irm https://raw.githubusercontent.com/sh-bd/IDM-Activation-Script/refs/heads/main/ias.ps1 | iex`
 -   You will see the activation options, follow the on-screen instructions.
 -   That's all.
 
 ### Method 2 - Traditional
 
--   Download the file from [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/idm-activation-script/get/main.zip)
+-   Download the file from [GitHub](https://github.com/sh-bd/IDM-Activation-Script/archive/refs/heads/main.zip)
 -   Right-click on the downloaded zip file and extract
 -   In the extracted folder, run the file named `IAS.cmd`
 -   You will see the activation options, and follow onscreen instructions.
@@ -90,10 +82,15 @@ Last Release - v1.2 (12-Feb-2024)\
 ## Troubleshoot
 
 -   Browser Integration Fix: [Chrome](https://www.internetdownloadmanager.com/register/new_faq/bi9.html) - [Firefox](https://www.internetdownloadmanager.com/register/new_faq/bi4.html)
--   Raise the issue on [Github](https://github.com/WindowsAddict/IDM-Activation-Script) with screenshots.
+-   Raise the issue on [Github](https://github.com/sh-bd/IDM-Activation-Script) with screenshots.
 
 ## Changelog
 
+
+#### v1.3
+
+-   Again IDM started to showing fake serial popups. However, we have fixed the issue.
+  
 #### v1.2
 
 -   Added back activation option with a randomized name, email, and key in registration details along with a warning that it's not working for some users, the recommended option is to use Freeze trial.
@@ -141,6 +138,7 @@ Last Release - v1.2 (12-Feb-2024)\
 | AveYo aka BAU                               | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC)                                                                                                                                                                         |
 | [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
 | WindowsAddict                               | IAS Author                                                                                                                                                                                                                             |
+| [sh-bd](https://github.com/sh-bd) | Release the latest v1.3
 
 And thanks to the IAS users for their interest, feedback, and assistance.
 
