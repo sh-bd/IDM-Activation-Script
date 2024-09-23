@@ -19,10 +19,6 @@ Last Release - v1.3 (23-Sep-2024)\
 -   First fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
 -   After that follow the below steps to activate it.
 
-## Note
-
--   📌 The activation option is currently not working in the script, use the Freeze trial option to lock 30-day trial period for the lifetime.
-
 ### Method 1 - PowerShell
 
 (Recommended)
