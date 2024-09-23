@@ -89,7 +89,7 @@ Last Release - v1.3 (23-Sep-2024)\
 
 #### v1.3
 
--   Again IDM started to showing fake serial popups. However, the issue has been fixed by (Shamim)[https://github.com/sh-bd]
+-   Again IDM started to showing fake serial popups. However, the issue has been fixed by [Shamim](https://github.com/sh-bd)
   
 #### v1.2
 
