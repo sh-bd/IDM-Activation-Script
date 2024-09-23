@@ -41,8 +41,6 @@ Last Release - v1.3 (23-Sep-2024)\
 
 #### Activation
 
-(\*Currently not working)
-
 -   This script applies the registry lock method to activate the Internet download manager (IDM).
 -   This method requires the Internet at the time of activation.
 -   IDM updates can be installed directly without having to activate it again.
