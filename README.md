@@ -13,7 +13,7 @@ An open-source tool to activate and reset the trial of [Internet Download Manage
 ## IAS Latest Release
 
 Last Release - v1.3 (23-Sep-2024)\
-[GitHub](https://github.com/sh-bd/IDM-Activation-Script)
+[GitHub](https://github.com/sh-bd/IDM-Activation-Script) - [GitLab](https://gitlab.com/sh4mim/IDM-Activation-Script)
 
 ## Download / How to use it?
 
@@ -36,7 +36,7 @@ Last Release - v1.3 (23-Sep-2024)\
 
 ### Method 2 - Traditional
 
--   Download the file from [GitHub](https://github.com/sh-bd/IDM-Activation-Script/archive/refs/heads/main.zip)
+-   Download the file from [GitHub](https://github.com/sh-bd/IDM-Activation-Script/archive/refs/heads/main.zip) or [GitLab](https://gitlab.com/sh4mim/IDM-Activation-Script/-/archive/main/IDM-Activation-Script-main.zip)
 -   Right-click on the downloaded zip file and extract
 -   In the extracted folder, run the file named `IAS.cmd`
 -   You will see the activation options, and follow onscreen instructions.
